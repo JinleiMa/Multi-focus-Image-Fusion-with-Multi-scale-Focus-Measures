@@ -6,6 +6,6 @@ Usage of this code is only free for research purposes. Please refer to the above
 
 Author: Jinlei Ma (majinlei121@163.com), Beijing Institute of Technology.
 
-#Usage:
+**Usage:**
 
 The demo file is Script.m.
